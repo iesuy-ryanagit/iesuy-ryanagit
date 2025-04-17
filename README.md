@@ -6,7 +6,6 @@
 I’m currently pursuing **Agricultural Informatics** in graduate school and studying **Computer Science** at 42Tokyo.  
 I joined 42Tokyo in September 2023 and completed the First Circle in April 2024.  
 With a background in both agriculture and technology, I’m passionate about applying tech-driven solutions to real-world challenges—especially in the agricultural field.
-
 ---
 
 ## Skill Set
@@ -23,7 +22,10 @@ With a background in both agriculture and technology, I’m passionate about app
 - PostgreSQL
 
 ---
+### Links
+Portfolio:https://iesuy-ryanagit.github.io/Potaufeu/
 
+---
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesuy-ryanagit&layout=compact&count_private=true&show_icons=true&theme=onedark" />
