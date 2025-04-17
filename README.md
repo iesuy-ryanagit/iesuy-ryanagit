@@ -1,6 +1,29 @@
-I'm a student at 42Tokyo.
+# Ryanagit
 
-I'm majoring in Agriculture and Computer Science.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iesuy-ryanagit&show_icons=true&theme=tokyonight" width="400"/>
+
+## About Me
+I’m currently pursuing **Agricultural Informatics** in graduate school and studying **Computer Science** at 42Tokyo.  
+I joined 42Tokyo in September 2023 and completed the First Circle in April 2024.  
+With a background in both agriculture and technology, I’m passionate about applying tech-driven solutions to real-world challenges—especially in the agricultural field.
+
+---
+
+## Skill Set
+
+### Languages & Frameworks
+- C / C++
+- Python
+- JavaScript / TypeScript
+- React
+- HTML / CSS
+
+### Databases
+- MySQL / MariaDB
+- PostgreSQL
+
+---
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesuy-ryanagit&layout=compact&count_private=true&show_icons=true&theme=onedark" />
