@@ -18,7 +18,6 @@ With a background in both agriculture and technology, I’m passionate about app
 - C / C++
 - Python
 - JavaScript / TypeScript
-- React
 - HTML / CSS
 
 ### Databases
