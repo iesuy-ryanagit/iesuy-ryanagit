@@ -17,12 +17,16 @@ With a background in both agriculture and technology, I’m passionate about app
 ### Languages & Frameworks
 - C / C++
 - Python
+- Django
 - JavaScript / TypeScript
+- React
 - HTML / CSS
+- Go
 
 ### Databases
 - MySQL / MariaDB
 - PostgreSQL
+- Kubernetes
 
 ---
 ### Links
