@@ -35,7 +35,7 @@ Portfolio:https://iesuy-ryanagit.github.io/Potaufeu/
 ---
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesuy-ryanagit&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iesuy-ryanagit&layout=compact&count_private=true&show_icons=true&theme=onedark&cache_seconds=1800" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iesuy-ryanagit&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
