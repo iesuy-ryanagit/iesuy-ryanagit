@@ -31,6 +31,11 @@ With a background in both agriculture and technology, I’m passionate about app
 - AWS
 - GCP
 
+### SRE・Observability
+- ELK stack
+- Open Telemetry
+- Jaeger
+
 ### CI/CD Tools
 - GitHub Actions
 - ArgoCD
