@@ -16,17 +16,28 @@ With a background in both agriculture and technology, I’m passionate about app
 
 ### Languages & Frameworks
 - C / C++
-- Python
-- Django
-- JavaScript / TypeScript
-- React
+- Python (Django, PyTorch, Flask)
+- JavaScript / TypeScript (Next.js, React)
 - HTML / CSS
 - Go
 
 ### Databases
 - MySQL / MariaDB
 - PostgreSQL
+
+### Infrastructure
+- Docker/Docker-Compose
 - Kubernetes
+- AWS
+- GCP
+
+### CI/CD Tools
+- GitHub Actions
+- ArgoCD
+
+### Deep Learning
+- PointNet/PointNet++
+- PointGroup
 
 ---
 ### Links
